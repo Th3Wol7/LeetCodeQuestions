@@ -67,6 +67,7 @@ public class AddTwoNumbers {
             ch = word.charAt(i); //extracts each character
             string = ch + string; //adds each character in front of the existing string
         }
+        return string;
     }
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
@@ -98,9 +99,6 @@ public class AddTwoNumbers {
         return node;
     }
 
-
-
-
 }
 
 
@@ -108,14 +106,3 @@ public class AddTwoNumbers {
 
 
 
-
-
-
-
-
-
-
-
-
-
-}
