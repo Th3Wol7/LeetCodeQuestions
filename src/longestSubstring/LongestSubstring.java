@@ -5,7 +5,8 @@ import java.util.Map;
 
 public class LongestSubstring {
 
-    /*//Optimised version
+    /*
+    //Optimised version
     public static int lengthOfLongestSubstring(String s) {
         int count = 0, track = 0;
         Set<Character> prev = new HashSet<>();
@@ -24,7 +25,16 @@ public class LongestSubstring {
             }
         }
         return count;
-    }*/
+    }
+    //This version of the code uses a sliding window approach,
+    //keeping track of the current substring using two pointers, i and j.
+    //Instead of using HashMap, it uses a HashSet to keep track of unique
+    //characters in the current substring, which makes the code faster.
+    //Also, the code uses the while loop to remove the repeated characters
+    //of the substring. This is faster than the previous version since it
+    //eliminates the need to iterate over the entire HashMap to find the
+    //repeated characters.
+    */
 
 
 
