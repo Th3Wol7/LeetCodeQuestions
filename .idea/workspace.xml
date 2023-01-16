@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fd3efba-4ed9-44d8-b00e-2f8bc1fab353" name="Changes" comment="find Median Activity">
-      <change afterPath="$PROJECT_DIR$/src/MedianOfSortedArrays/Activity Instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedianOfSortedArrays/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeString/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673741677733</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="find Median Activity">
+      <created>1673746695211</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673746695211</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
