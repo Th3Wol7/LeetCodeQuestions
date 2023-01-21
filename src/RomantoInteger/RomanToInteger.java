@@ -60,7 +60,7 @@ public class RomanToInteger {
 
 
     public static void main(String[] args) {
-        System.out.println(romanToInt("CDD"));//"MCMXCIV"));
+        System.out.println(romanToInt("MCMXCIV"));
     }
 
 }
