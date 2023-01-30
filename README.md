@@ -35,4 +35,4 @@ for improvement, please feel free to open an issue or a pull
 request. Your feedback is always appreciated.
 
 ## Conclusion
-I hope that this repository will be helpful to others who are preparing for technical interviews or just looking to improve their problem-solving skills. Happy coding!
+I hope that this repository will be helpful to others who are preparing for technical interviews or just looking to improve their problem-solving skills. 
