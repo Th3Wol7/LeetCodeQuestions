@@ -1,7 +1,7 @@
 # LeetCode Solutions
 This repository contains my solutions to various problems on
 [LeetCode](https://leetcode.com/). Each solution includes 
-the problem statement, my thought process, and the code.
+the problem statement, and the code.
 
 ## Overview
 LeetCode is a platform that offers a collection of coding 
